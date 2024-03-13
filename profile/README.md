@@ -1,5 +1,7 @@
 ## UMC 5th MEME
 
+![Instagram post - 1](https://github.com/MEME-UMC/MEME_AUTH/assets/55044278/e36db2c9-42b8-4935-b0ac-0e96aba3e07b)
+
 ### Manager 👑
 | <img src="https://avatars.githubusercontent.com/u/121819862?v=4" width=90px alt="차차(김나령)"/>  |
 | :-----: |
